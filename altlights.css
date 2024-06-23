@@ -1,0 +1,140 @@
+.parent
+{
+    width: 100%;
+    height: fit-content;
+    background-color:#f2f0fe ;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.c
+{
+    height: 350px;
+    width: 200px;
+    background-color: white;
+    border: 2px solid #f2f0fe;
+    margin: 30px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px 5px gainsboro;
+    position: relative;
+}
+.c1
+{
+    height: 50px;
+    width: 8px;
+    background-color: gray;
+    margin-top: 20px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+button
+{
+    margin-top: 230px;
+    margin-left: 65px;
+    padding: 8px 15px;
+    border-radius: 5px;
+}
+.img1
+{
+    font-size: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: absolute;
+    top: 250px;
+    padding: 10px;
+}
+#img1
+{
+    background-image: url("https://tse1.mm.bing.net/th?id=OIP.ADjoUOy8GMryL7mgRCfvnwHaE3&pid=Api&P=0&h=180");
+    background-size: 100% 70%;
+    background-repeat: no-repeat; 
+}
+#img2
+{
+    background-image: url("https://tse3.mm.bing.net/th?id=OIP.0h9PYB64kCtKsZ2AVvDHDwHaHa&pid=Api&P=0&h=180");
+    background-repeat: no-repeat;
+    background-size: 100% 70%;
+}
+#img3
+{
+    background-image: url("https://tse2.mm.bing.net/th?id=OIP.RQNIorHLrb_9aWOLFPQSbwHaKX&pid=Api&P=0&h=180");
+    background-repeat: no-repeat;
+    background-size: 95% 70%;
+}
+#img4
+{
+    background-image: url("https://tse1.mm.bing.net/th?id=OIP.78vTtPr6v9o5AKRs2EyQAwHaHa&pid=Api&P=0&h=180");
+    background-repeat: no-repeat;
+    background-size: 95% 70%;
+}
+#img5
+{
+    background-image: url("https://tse3.mm.bing.net/th?id=OIP.ZzZUvt0C2wROHHlw7YQjtgHaEo&pid=Api&P=0&h=180");
+    background-repeat: no-repeat;
+    background-size: 95% 70%;
+}
+#img6
+{
+    background-image: url("https://tse3.mm.bing.net/th?id=OIP.yQx8yGsKXjpBJJU7N5SRWgAAAA&pid=Api&P=0&h=180");
+    background-repeat: no-repeat;
+    background-size: 95% 70%;
+}
+#img7
+{
+    background-image: url("https://tse2.mm.bing.net/th?id=OIP.gpZX5z4ftTnGdcOSy7g10wHaHa&pid=Api&P=0&h=180");
+    background-repeat: no-repeat;
+    background-size: 95% 70%;
+}
+#img8
+{
+    background-image: url("https://tse4.mm.bing.net/th?id=OIP.nPWkrpPKK_QbaMFRLVTjqQHaEY&pid=Api&P=0&h=180");
+    background-repeat: no-repeat;
+    background-size: 95% 70%;
+}
+#img9
+{
+    background-image: url("https://tse2.mm.bing.net/th?id=OIP.Jut4qgUrqDoIWRubCcfi2gHaHa&pid=Api&P=0&h=180");
+    background-repeat: no-repeat;
+    background-size: 95% 70%;
+}
+#img10
+{
+    background-image: url("https://tse3.mm.bing.net/th?id=OIP.hgPoTP60d5Cj2_PZwbVJYAAAAA&pid=Api&P=0&h=180");
+    background-repeat: no-repeat;
+    background-size: 95% 70%;
+}
+#img11
+{
+    background-image: url("https://tse4.mm.bing.net/th?id=OIP.19M0nd4wHwv4o3V5ZOS8AwHaGy&pid=Api&P=0&h=180");
+    background-repeat: no-repeat;
+    background-size: 95% 70%;
+}
+#img12
+{
+    background-image: url("https://tse3.mm.bing.net/th?id=OIP.Qpks1gWt36slqmc8jcLWpAHaHa&pid=Api&P=0&h=180");
+    background-repeat: no-repeat;
+    background-size: 95% 70%;
+}
+#img13
+{
+    background-image: url("https://tse4.mm.bing.net/th?id=OIP.eHVlVO985dvHg3p7-_zoxQHaGn&pid=Api&P=0&h=180");
+    background-repeat: no-repeat;
+    background-size: 95% 60%;
+}
+#img14
+{
+    background-image: url("https://tse1.mm.bing.net/th?id=OIP.78_4brOvdL6GlAuhp64NagAAAA&pid=Api&P=0&h=180");
+    background-repeat: no-repeat;
+    background-size: 95% 60%;
+}
+#img15
+{
+    background-image: url("https://tse3.mm.bing.net/th?id=OIP.y6nHWpwz5muoIPKWAUvkbQAAAA&pid=Api&P=0&h=180");
+    background-repeat: no-repeat;
+    background-size: 95% 70%;
+}
+.c:hover
+{
+    box-shadow: 0px 0px 5px 5px transparent;
+    height: 360px;
+    width: 210px;
+}
